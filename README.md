@@ -15,10 +15,3 @@ To help us improve Ulifyi, it is important that every bug is reported to us. Thi
 ### Step 3
 
 * Now answer the questions that are in the box. When you're done, you send in the bugreport and a team member takes care of it.
-
-
-## Acknowledgments
-
-* [Ulifyi](https://uli.fyi/)
-* [DevCrew.Dev](https://devcrew.dev/)
-* [Justin](https://uli.fyi/justin)
